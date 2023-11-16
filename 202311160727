@@ -1,0 +1,30 @@
+2023-11-16-6:50
+#include <stdio.h>
+
+int main()
+{
+  for(int i=1 ; i<=9 ; i++)
+  
+  for(int j=1 ; j<=0 ; j++)
+
+{
+  printf("%d * %d= %d\n", i, j,(i * j));
+}
+printf("\n") ;
+}
+  return 0 ;
+}
+
+++++++++++=========
+컨터롤과 플러스 눌러도안되고
+콘트롤 쉬프트 플러서 눌러도안되네
+구글에도 이렇게 두가지 알려주는데
+글싸크기가 조절이 안된다.
+
+빔폴풀드에서 vimrc를 열어서 크기를 숫자로 조절하라는데
+폴드에서 vimrc를 못찾겠다.
+이것때문에 시간만30분 까먹었다.+++++++++++=========
+esc를 눌러고 마서 해도 안되고 데브는 컨트롤플러스 하니까 되는데
+이거는 크기가 안된다.=
+
+sossossossososososososososososososososososososososososososososososos
